@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sandip_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandip_official" height="30" width="45" /></a>
-<a href="https://linkedin.com/in/sandip gardi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip gardi" height="30" width="45" /></a>
+<a href="https://www.linkedin.com/in/sandipgardi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip gardi" height="30" width="45" /></a>
 <a href="https://instagram.com/_sandip_official_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sandip_official_" height="30" width="45" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/sandip_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sandip_official/" height="30" width="45" /></a>
 <a href="https://discord.gg/2tvAjc3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2tvAjc3g" height="30" width="45" /></a>
