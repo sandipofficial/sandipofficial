@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🔭 I’m currently working on [SpringBoot](https://github.com/sandipofficial/SpringBoot)
+- 🔭 I’m currently working on [NextJS](https://github.com/sandipofficial/nextjs-dashboard)
 
 - 🌱 I’m currently learning **Backend Development**
 
